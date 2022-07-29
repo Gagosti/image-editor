@@ -1,0 +1,22 @@
+{
+  "name": "image-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gagosti/image-editor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gagosti/image-editor/issues"
+  },
+  "homepage": "https://github.com/Gagosti/image-editor#readme",
+  "dependencies": {
+    "sharp": "^0.30.7"
+  }
+}
